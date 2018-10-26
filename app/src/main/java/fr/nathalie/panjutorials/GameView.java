@@ -17,8 +17,8 @@ public class GameView extends SurfaceView implements SurfaceHolder.Callback {
 
     private SurfaceHolder surfaceHolder;
     private Bitmap bmp;
-    private int y=0;
-    private int ySpeed ;
+   /* private int y=0;
+    private int ySpeed ;*/
 
     private Sprite theSprite, theSprite2;
 
